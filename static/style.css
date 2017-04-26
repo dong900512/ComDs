@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "微软雅黑";
+    font-size: 1rem;
+}
+
+.main-box {
+    max-width: 420px;
+    margin: 0.2rem auto 0 auto;
+    overflow: hidden;
+}
+
+div {
+    width: 100%;
+    height: auto;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box-nowrap {
+    flex-wrap: nowrap;
+}
+
+.box-rc {
+    justify-content: center;
+}
+
+.box-cc {
+    align-items: center;
+}
+
+.margin-tb {
+    padding: 0.5rem 0;
+}
+
+.margin-lr {
+    padding: 0 0.5rem;
+}
+
+.padding-tb {
+    padding: 0.5rem 0;
+}
+
+.padding-lr {
+    padding: 0 0.5rem;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #14679e;
+    color: #fefefe;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 3px;
+}
+
+table thead,
+table tbody,
+table tfoot {
+    border: 1px solid #f1f1f1;
+    background-color: #fefefe;
+}
+
+table caption {
+    padding: 0.5rem 0.625rem 0.625rem;
+    font-weight: bold;
+}
+
+table thead {
+    background: #f8f8f8;
+    color: #0a0a0a;
+}
+
+table tfoot {
+    background: #f1f1f1;
+    color: #0a0a0a;
+}
+
+table thead tr,
+table tfoot tr {
+    background: transparent;
+}
+
+table thead th,
+table thead td,
+table tfoot th,
+table tfoot td {
+    padding: 0.5rem 0.625rem 0.625rem;
+    font-weight: bold;
+    text-align: left;
+    text-align: center
+}
+
+table tbody th,
+table tbody td {
+    padding: 0.5rem 0.625rem 0.625rem;
+    text-align: center;
+}
+
+table tbody tr:nth-child(even) {
+    border-bottom: 0;
+    background-color: #f1f1f1;
+}
+
+table.unstriped tbody {
+    background-color: #fefefe;
+}
+
+table.unstriped tbody tr {
+    border-bottom: 0;
+    border-bottom: 1px solid #f1f1f1;
+    background-color: #fefefe;
+}
+
+table.hover thead tr:hover {
+    background-color: #f3f3f3;
+}
+
+table.hover tfoot tr:hover {
+    background-color: #ececec;
+}
+
+table.hover tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+table.hover:not(.unstriped) tr:nth-of-type(even):hover {
+    background-color: #ececec;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+/*淡出淡出动画*/
+
+.fade-show-enter-active {
+    transition: all 0.3s linear;
+}
+
+.fade-show-leave-active {
+    transition: all 0.3s ease;
+}
+
+.fade-show-enter,
+.fade-show-leave-active {
+    opacity: 0;
+}
+
+
+/*飞入飞出*/
+
+.slide-show-enter-active {
+    transition: all 0.3s ease;
+    position: relative;
+    left: 0;
+}
+
+.slide-show-leave-active {}
+
+.slide-show-enter {
+    position: relative;
+    left: -32rem;
+}
+
+.slide-show-leave-active {}

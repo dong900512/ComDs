@@ -1,0 +1,11 @@
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\hostpolicy.dll
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\hostfxr.dll
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\ComDs.exe
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\ComDs.deps.json
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\ComDs.runtimeconfig.json
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\ComDs.runtimeconfig.dev.json
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\ComDs.dll
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\bin\Debug\netcoreapp1.1\win7-x64\ComDs.pdb
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\obj\Debug\netcoreapp1.1\win7-x64\ComDs.AssemblyInfo.cs
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\obj\Debug\netcoreapp1.1\win7-x64\ComDs.dll
+C:\Users\LiuFang\Documents\Visual Studio 2017\Projects\ComDs\ComDs\obj\Debug\netcoreapp1.1\win7-x64\ComDs.pdb
