@@ -1,9 +1,0 @@
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\bin\Release\netcoreapp1.1\ComDs.deps.json
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\bin\Release\netcoreapp1.1\ComDs.runtimeconfig.json
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\bin\Release\netcoreapp1.1\ComDs.runtimeconfig.dev.json
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\bin\Release\netcoreapp1.1\ComDs.dll
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\bin\Release\netcoreapp1.1\ComDs.pdb
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\obj\Release\netcoreapp1.1\ComDs.csprojResolveAssemblyReference.cache
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\obj\Release\netcoreapp1.1\ComDs.AssemblyInfo.cs
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\obj\Release\netcoreapp1.1\ComDs.dll
-C:\Users\LiuFang\documents\visual studio 2017\Projects\ComDs\ComDs\obj\Release\netcoreapp1.1\ComDs.pdb
